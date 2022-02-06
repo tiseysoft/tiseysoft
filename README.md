@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tisey Soft
-- 👀 I’m interested in Back end web development with node and express
+- 👀 I’m interested in Back end web development.
 - 🌱 I’m currently understanding more on deploying and AWS too
-- 💞️ I’m looking to collaborate on any node projects, and available for full time job offers
+- 💞️ I’m looking to collaborate on any web projects, and available for full time job offers
 - 📫 How to reach me tiseysoft@gmail.com and twitter.com/tiseysoft
 
 <!---
