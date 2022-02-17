@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tisey Soft
-- 👀 I’m interested in Back end web development.
-- 🌱 I’m currently understanding more on deploying and AWS too
+- 👀 I’m a full stack developer. I work with HTML+CSS(Bootstrap/Tailwind)+JS(React) for my front-end development, and PHP+MySQL/NojeJS+MongoDB for Back-end.
+- 🌱 I’m currently understanding more on deploying and AWS too. I plan to dedicate specific period of time to understand more on Azure and DevOps.
 - 💞️ I’m looking to collaborate on any web projects, and available for full time job offers
 - 📫 How to reach me tiseysoft@gmail.com and twitter.com/tiseysoft
 
