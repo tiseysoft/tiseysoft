@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Oluwatise Okuwobi
-- 👀 I’m a full stack developer. I work with HTML+CSS(Bootstrap/Tailwind)+JS(React) for my front-end development, and PHP+MySQL/NojeJS+MongoDB for Back-end. I'm also a technical writer, creating API docs, and technical blogs, for software companies across the world.
-- 🌱 I’m currently understanding more on deploying and AWS too. I plan to dedicate specific period of time to understand more on Azure and DevOps.
-- 💞️ I’m looking to collaborate on any web projects, and available for full time job offers
+- 👀 I’m a Web3 technical writer, interested in the world of blockchain, and the 3rd generation of the web I spend my time, creating API docs, and technical blogs, for software companies across the world.
+- 🌱 I’m currently understanding more about deploying and AWS too. I plan to dedicate a specific period of time to understanding more about AWS and DevOps.
+- 💞️ I’m looking to collaborate on any web3 projects, and available for full time job offers
 - 📫 How to reach me tiseysoft@gmail.com and twitter.com/tiseysoft
 
 <!---
